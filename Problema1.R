@@ -8,4 +8,4 @@ Coef_Cor2 <- sqrt(Rsq)
 m <- 0.06576
 b <- 11.79755
 m*647.1+b
-ypred <- predict(m,b, data.frame(x=x))
+# La última pregunta es de interpetació
